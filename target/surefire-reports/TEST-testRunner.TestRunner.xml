@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="14" failures="0" name="testRunner.TestRunner" time="113.81" errors="0" skipped="0">
+  <properties>
+    <property name="JOB_NAME" value="nopCommerceV001-Cucumber"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/nopCommerceV001-Cucumber/1/display/redirect?page=tests"/>
+    <property name="NUMBER_OF_PROCESSORS" value="12"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="C:\Users\WalderAG\.jenkins"/>
+    <property name="HUDSON_SERVER_COOKIE" value="2174b0307ffb8e34"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="TEMP" value="C:\Users\WalderAG\AppData\Local\Temp"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="java.runtime.version" value="11.0.2+9"/>
+    <property name="user.name" value="WalderAG"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="nopCommerceV001-Cucumber"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/nopCommerceV001-Cucumber/1/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#1"/>
+    <property name="OneDrive" value="C:\Users\WalderAG\OneDrive - Unisys"/>
+    <property name="sun.boot.library.path" value="C:\Java\jdk-11.0.2\bin"/>
+    <property name="OneDriveCommercial" value="C:\Users\WalderAG\OneDrive - Unisys"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="LOCALAPPDATA" value="C:\Users\WalderAG\AppData\Local"/>
+    <property name="java.version" value="11.0.2"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="USERNAME" value="WalderAG"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="BUILD_ID" value="1"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="maven.conf" value="C:\Selenium\apache-maven-3.8.2\conf"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="=::" value="::\"/>
+    <property name="SCITE_USERHOME" value="C:\Users\WalderAG\AppData\Local\AutoIt v3\SciTE"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Java\jdk-11.0.2"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="StealthProgramDir" value="C:"/>
+    <property name="os.version" value="10.0"/>
+    <property name="=ExitCode" value="00000001"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/nopCommerceV001-Cucumber/1/display/redirect"/>
+    <property name="TMP" value="C:\Users\WalderAG\AppData\Local\Temp"/>
+    <property name="path.separator" value=";"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/nopCommerceV001-Cucumber/1/display/redirect?page=artifacts"/>
+    <property name="java.vm.version" value="11.0.2+9"/>
+    <property name="__PSLockDownPolicy" value="0"/>
+    <property name="user.variant" value=""/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/nopCommerceV001-Cucumber/display/redirect"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="AP"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="JAVA_HOME" value="C:\Java\jdk-11.0.2"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="USERDNSDOMAIN" value="AP.UIS.UNISYS.COM"/>
+    <property name="HOMEPATH" value="\Users\WalderAG"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="COMPUTERNAME" value="IN-WALDERAG-0"/>
+    <property name="user.script" value=""/>
+    <property name="user.home" value="C:\Users\WalderAG"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-nopCommerceV001-Cucumber-1"/>
+    <property name="JENKINS_SERVER_COOKIE" value="2174b0307ffb8e34"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.version.date" value="2019-01-15"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\WalderAG"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.library.path" value="C:\Java\jdk-11.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Selenium\apache-maven-3.8.2/bin;C:\Java\jdk-11.0.2/bin;C:\Java\jdk-11.0.2/bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Java\jdk-11.0.2\bin;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files\PolicyPak\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Selenium\apache-maven-3.8.2\bin;C:\Gradle\gradle-6.9.1\bin;C:\Users\WalderAG\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\WalderAG\AppData\Roaming"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="maven.home" value="C:\Selenium\apache-maven-3.8.2"/>
+    <property name="java.class.path" value="C:\Users\WalderAG\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\Selenium\apache-maven-3.8.2\boot\plexus-classworlds-2.6.0.jar;C:\Selenium\apache-maven-3.8.2/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Selenium\apache-maven-3.8.2 C:\Users\WalderAG\.jenkins\war\WEB-INF\lib\remoting-4.10.jar C:\Users\WalderAG\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\WalderAG\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 65309"/>
+    <property name="Path" value="C:\Java\jdk-11.0.2/bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Java\jdk-11.0.2\bin;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files\PolicyPak\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Selenium\apache-maven-3.8.2\bin;C:\Gradle\gradle-6.9.1\bin;C:\Users\WalderAG\AppData\Local\Microsoft\WindowsApps;"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="StealthDataDir" value="C:"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="jansi.mode" value="strip"/>
+    <property name="PATH+JDK" value="C:\Java\jdk-11.0.2/bin"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 165 Stepping 2, GenuineIntel"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="M2_HOME" value="C:\Selenium\apache-maven-3.8.2"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="CI" value="true"/>
+    <property name="java.io.tmpdir" value="C:\Users\WalderAG\AppData\Local\Temp\"/>
+    <property name="HUDSON_HOME" value="C:\Users\WalderAG\.jenkins"/>
+    <property name="PATH+MAVEN" value="C:\Selenium\apache-maven-3.8.2/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/nopCommerceV001-Cucumber/1/"/>
+    <property name="deployment.expiration.check.enabled" value="false"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.dir" value="C:\Users\WalderAG\eclipse-workspace\nopCommerceV001"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/nopCommerceV001-Cucumber/"/>
+    <property name="LOGONSERVER" value="\\AZRAUE-APDC1V"/>
+    <property name="USERDOMAIN" value="AP"/>
+    <property name="MAVEN_HOME" value="C:\Selenium\apache-maven-3.8.2"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="1"/>
+    <property name="PROCESSOR_REVISION" value="a502"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="UATDATA" value="C:\Windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="=C:" value="C:\Jenkins"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Users\WalderAG\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
+    <property name="WORKSPACE_TMP" value="C:\Users\WalderAG\.jenkins\workspace\nopCommerceV001-Cucumber@tmp"/>
+    <property name="WORKSPACE" value="C:\Users\WalderAG\.jenkins\workspace\nopCommerceV001-Cucumber"/>
+    <property name="maven3.interceptor.common" value="C:\Users\WalderAG\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
+    <property name="PSModulePath" value="C:\Program Files (x86)\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="java.vendor.version" value="18.9"/>
+  </properties>
+  <testcase classname="Login with valid credentials" name="User opens URL &quot;https://admin-demo.nopcommerce.com/&quot;" time="17.92"/>
+  <testcase classname="Login with valid credentials" name="User enters Email as &quot;admin@yourstore.com&quot; and Password as &quot;admin&quot;" time="0.203"/>
+  <testcase classname="Login with valid credentials" name="Clicks on LOG IN" time="39.968"/>
+  <testcase classname="Login with valid credentials" name="Page title should be &quot;Dashboard / nopCommerce administration&quot;" time="0.009"/>
+  <testcase classname="Login with valid credentials" name="user clicks on Logout" time="1.659"/>
+  <testcase classname="Login with valid credentials" name="Page title should be &quot;Your store. Login&quot;" time="0.005"/>
+  <testcase classname="Login with valid credentials" name="Login with valid credentials" time="3.804"/>
+  <testcase classname="Login with valid credentials datadriven" name="User opens URL &quot;https://admin-demo.nopcommerce.com/&quot;" time="8.918"/>
+  <testcase classname="Login with valid credentials datadriven" name="User enters Email as &quot;admin@yourstore.com&quot; and Password as &quot;admin&quot;" time="0.252"/>
+  <testcase classname="Login with valid credentials datadriven" name="Clicks on LOG IN" time="35.667"/>
+  <testcase classname="Login with valid credentials datadriven" name="Page title should be &quot;Dashboard / nopCommerce administration&quot;" time="0.007"/>
+  <testcase classname="Login with valid credentials datadriven" name="user clicks on Logout" time="1.646"/>
+  <testcase classname="Login with valid credentials datadriven" name="Page title should be &quot;Your store. Login&quot;" time="0.007"/>
+  <testcase classname="Login with valid credentials datadriven" name="Login with valid credentials datadriven" time="3.745"/>
+</testsuite>
